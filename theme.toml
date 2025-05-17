@@ -1,9 +1,9 @@
-name = "Coder"
+name = "HC Blog"
 license = "MIT"
-licenselink = "https://github.com/luizdepra/hugo-coder/blob/master/LICENSE.md"
+licenselink = "https://5s9horizons.github.io/hc-blog/blob/master/LICENSE.md"
 description = "A simple and clean blog theme for Hugo"
-homepage = "https://github.com/luizdepra/hugo-coder/"
-demosite = "https://hugo-coder.netlify.app/"
+homepage = "https://5s9horizons.github.io/hc-blog/"
+demosite = "https://5s9horizons.github.io/hc-blog/"
 tags = [
   "blog",
   "minimal",
@@ -28,4 +28,4 @@ min_version = "0.124.0"
 
 [author]
 name = "Luiz F. A. de Prá"
-homepage = "https://luizdepra.com"
+homepage = "https://5s9horizons.github.io/hc-blog/"
