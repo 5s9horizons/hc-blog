@@ -1,4 +1,4 @@
-baseURL = "https://example.com/"
+baseURL = "https://5s9horizons.github.io/bc-blog"
 
 [module]
 [module.hugoVersion]
